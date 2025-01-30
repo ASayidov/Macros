@@ -76,6 +76,10 @@ Sub PasteIntoRange()
 ErrHandler:
     MsgBox "Произошла ошибка при вставке изображения.", vbExclamation
 End Sub
+
+
+
+
 Добавляем код в PERSONAL.XLSB
 В редакторе VBA (Alt + F11) в области Project Explorer:
 Раскрываем VBAProject (PERSONAL.XLSB).
